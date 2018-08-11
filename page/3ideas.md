@@ -2,7 +2,7 @@
 layout: page
 title: Ideas
 permalink: /idea/
-icon: lightbulb
+icon: hourglass-start
 type: page
 ---
 
