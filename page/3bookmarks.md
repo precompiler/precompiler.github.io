@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-permalink: /collection/
+title: Bookmarks
+permalink: /bookmark/
 icon: bookmark
 type: page
 ---
