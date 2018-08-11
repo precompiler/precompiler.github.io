@@ -16,11 +16,6 @@ Each piece in a pack of chewing gum contains an embedded song(demo version).
 When you chew it. You can hear the song. Sound is conducted in your bone, so you won't disturb other people.
 If you bin your gum, you'll have the opportunity to be able to download the song for free.
 
-## Programming
-* [Learn X in Y minutes](https://learnxinyminutes.com/)
-
-## Podcasts
-* [Software Development Podcasts](https://player.fm/featured/software-development)
 
 ## Comments
 
