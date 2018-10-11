@@ -13,6 +13,6 @@ type: page
 
 ## Contact
 
-- GitHub: https://github.com/precompiler
-- LinkedIn: https://www.linkedin.com/in/richard-lee-32336963/
+- GitHub: [https://github.com/precompiler](https://github.com/precompiler)
+- LinkedIn: [https://www.linkedin.com/in/richard-lee-32336963/](https://www.linkedin.com/in/richard-lee-32336963/)
 - Email: lishengyin.msn@hotmail.com
