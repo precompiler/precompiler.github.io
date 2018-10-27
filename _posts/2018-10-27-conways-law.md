@@ -18,4 +18,4 @@ I first learned Conway's Law in 2014 at InfoQ ArchSummit, where Mike Amundsen ga
 
 Following is an example. On the left side, three teams are involved to develop a product. Each team has only one kind of expert(in real world instead of there's only one kind of expert in a team, it's very likely that a team has limited access to certain resources. e.g. service team is not allowed to access security stuff) and will focus on a part of the product. The three components together is the final product. While on the right side, one team which has all kinds of experts, working on the same product.
 From customers' point of view, in order to use the product developed by the left teams, customers need to talk to three teams to understand all the components. But to use the one developed by the right team, less communiation is needed.
-![Organization and Product](https://github.com/precompiler/precompiler.github.io/blob/master/_posts/ConwaysLaw.jpeg)
+![Organization and Product](https://github.com/precompiler/precompiler.github.io/raw/master/_posts/ConwaysLaw.jpeg)
