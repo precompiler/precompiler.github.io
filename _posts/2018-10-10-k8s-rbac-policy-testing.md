@@ -3,11 +3,12 @@ layout: post
 title:  "How to quickly test Kubernetes authorization policy"
 date:   2018-10-10 19:30:00
 categories: Kubernetes
-tags: Kubernetes RBAC impersonate
+tags: Kubernetes RBAC impersonate testing
 ---
 
 * content
 {:toc}
+
 
 > We've created K8S roles, role bindings, how do we test the authentication policies easily and quickly?
 > If you use on-prem Kubernetes or PKS, you probably need to use different kubeconfig files to autenticate as different users/groups. If it's EKS, you'll need to assume different roles to test the policies. To get everything setup can take a while.
@@ -83,7 +84,7 @@ kubectl get services --as=dummy --as-group="precompiler:pod-reader"
 # ok
 kubectl get services --as=dummy --as-group="precompiler:super-user"
 ```
-**Note**: The impersonating user must have the ability to perform the “impersonate” verb on the kind of attribute being impersonated (“user”, “group” or "serviceaccount")
+**Note**: The impersonating user must have the ability to perform the â€œimpersonateâ€ verb on the kind of attribute being impersonated (â€œuserâ€, â€œgroupâ€ or "serviceaccount")
 sample role
 ```yaml
 apiVersion: rbac.authorization.k8s.io/v1
