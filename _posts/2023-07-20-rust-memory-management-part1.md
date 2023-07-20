@@ -9,7 +9,7 @@ tags: Rust
 
 
 If a variable is defined and it's size can be determined at compile time, it'll be stored in the stack
-```rust
+```bash
 let x: i32 = 1;
 let color = RGBColor{r: 100, g: 100, b: 100};
 ```
