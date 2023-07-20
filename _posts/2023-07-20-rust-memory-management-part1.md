@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rust Memory Management - Part 1"
-date: 2023-07-07 15:00:00
+date: 2023-07-20 15:00:00
 categories: Programming
 tags: Rust
 ---
