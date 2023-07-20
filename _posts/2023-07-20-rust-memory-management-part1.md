@@ -17,4 +17,4 @@ If a variable is defined and it's size can be determined at compile time, it'll 
 let x: i32 = 1;
 let color = RGBColor{r: 100, g: 100, b: 100};
 ```
-![var in stack](rust-mem/p1.PNG)
+![var in stack](p1.PNG)
