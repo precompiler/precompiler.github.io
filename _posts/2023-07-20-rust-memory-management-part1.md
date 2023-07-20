@@ -5,10 +5,6 @@ date:   2023-07-23 15:30:00
 categories: Programming
 tags: Rust
 ---
-
-* content
-{:toc}
-
 > Rust is a very different language. It doesn't use a garbage collector, but users don't have to worry about allocating/freeing memory. Rust is blazing fast, but you may often need to wrestle with the compiler to get things right. It'll help a lot if you understand how Rust manages the memory.
 
 
